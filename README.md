@@ -1,4 +1,4 @@
-##🔒 Data Scientist specializing in AI-powered Cybersecurity
+# 🔒 Data Scientist specializing in AI-powered Cybersecurity
 
 Leveraging machine learning and deep learning to detect, prevent, and respond to cyber threats. Passionate about building robust AI systems that enhance security postures.
 
