@@ -9,9 +9,9 @@ Leveraging machine learning and deep learning to detect, prevent, and respond to
 - MLOps & Model Deployment
 - Real-time Security Analytics
 
-🛠️ Working at the intersection of AI and cybersecurity to develop next-generation defense systems.
+## 🛠️ Working at the intersection of AI and cybersecurity to develop next-generation defense systems.
 
-📊 Focused on creating interpretable, production-ready models that deliver actionable security insights.
+## 📊 Focused on creating interpretable, production-ready models that deliver actionable security insights.
 
-💡 Always exploring new approaches to strengthen cyber defenses through innovative AI solutions.
+## 💡 Always exploring new approaches to strengthen cyber defenses through innovative AI solutions.
 ```
